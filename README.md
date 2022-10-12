@@ -1,8 +1,8 @@
 # RedisGraphConnection
-Redis Graph Connection  by Python
-NoSql bir veri tabanı olan ilişkisel veriler tutabilen RedisGraph Database Python ile  hızlı insert yapmak için   
+Redis Graph Connection  using Python
+NoSql bir veri tabanı olan ilişkisel veriler tutabilen RedisGraph Database Python ile  hızlı ve efektif insert yapmak için   
 .py uzantılı dosyada bakabilirsiniz.
-İyi Çalışmalar
+
 
 <div align="center">
     <a href="./">

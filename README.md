@@ -5,7 +5,7 @@ NoSql bir veri tabanı olan ilişkisel veriler tutabilen RedisGraph Database Pyt
 
 <div align="center">
     <a href="./">
-        <img src="https://redis.com/wp-content/uploads/2020/04/image10-368x260-1.png" width="79%"/>
+        <img src="https://redis.com/wp-content/uploads/2020/04/image10-368x260-1.png" width="30%"/>
     </a>
 </div>
 
